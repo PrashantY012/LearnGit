@@ -1,6 +1,0 @@
-Hey this is the first data  
-
-
-Now second commit will be done
-
-This change made on branch
