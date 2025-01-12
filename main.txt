@@ -1,6 +1,2 @@
-Hey this is the first data  
+this is main branch.
 
-
-Now second commit will be done
-
-This change made on branch
