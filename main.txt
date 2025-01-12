@@ -1,7 +1,1 @@
-this is main branch.
-
-
-Now second commit will be done
-
-Conflicting line
-
+this is branch 1.
