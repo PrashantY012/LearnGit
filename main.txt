@@ -1,7 +1,1 @@
-this is conflict
-
-
-Now second commit will be done
-
-Conflicting line
-
+this 1 one.
